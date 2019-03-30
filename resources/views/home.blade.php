@@ -7,5 +7,5 @@
 @stop
 
 @section('content')
-    <strong>App  Prabu</strong>
+    <strong>App by Prabu</strong>
 @stop
